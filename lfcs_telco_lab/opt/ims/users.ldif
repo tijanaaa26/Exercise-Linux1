@@ -1,0 +1,9 @@
+dn: uid=alice,ou=Users,dc=ims,dc=local
+uid: alice
+cn: Alice Operator
+sn: Operator
+
+dn: uid=bob,ou=Users,dc=ims,dc=local
+uid: bob
+cn: Bob Engineer
+sn: Engineer
